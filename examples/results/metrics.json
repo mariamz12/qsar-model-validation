@@ -1,0 +1,26 @@
+{
+  "n_train": 60,
+  "n_test": 20,
+  "n_descriptors": 4,
+  "R2_train": 0.7323,
+  "Q2_LOO": 0.6847,
+  "RMSE_train": 0.3389,
+  "R2_test": 0.0653,
+  "RMSE_test": 0.8139,
+  "CCC_test": 0.5365,
+  "Q2_F1": 0.0669,
+  "Q2_F2": 0.0653,
+  "Q2_F3": -0.5439,
+  "yrand_max_R2": 0.2685,
+  "yrand_max_Q2": 0.111,
+  "test_inside_AD_pct": 85.0,
+  "Q2_F2_inside_AD": 0.7718,
+  "CCC_test_inside_AD": 0.8734,
+  "h_star": 0.25,
+  "descriptors": [
+    "MolLogP",
+    "TPSA",
+    "NumHDonors",
+    "nAromRings"
+  ]
+}
